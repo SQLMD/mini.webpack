@@ -1,4 +1,4 @@
-// var lodash = require('lodash'); // PART I - STEP ONE - Uncomment this code.
+var lodash = require("lodash"); // PART I - STEP ONE - Uncomment this code.
 // var sortBy = require('lodash/sortBy'); // PART I - STEP TWO - Use this code instead.
 
 // require('./client/Nav/Nav'); // PART II - UNCOMMENT THIS LINE
