@@ -17,5 +17,5 @@ var message = [
   { phrase: "for the sortBy function.", order: 3 },
 ];
 
-// console.log(lodash.sortBy(message, 'order')); // PART I - STEP ONE - Uncomment this code.
-// console.log(sortBy(message, 'order')); // PART I - STEP TWO - Use this code instead.
+console.log(lodash.sortBy(message, "order")); // PART I - STEP ONE - Uncomment this code.
+console.log(sortBy(message, "order")); // PART I - STEP TWO - Use this code instead.
