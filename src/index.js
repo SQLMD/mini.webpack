@@ -1,5 +1,5 @@
 var lodash = require("lodash"); // PART I - STEP ONE - Uncomment this code.
-// var sortBy = require('lodash/sortBy'); // PART I - STEP TWO - Use this code instead.
+var sortBy = require("lodash/sortBy"); // PART I - STEP TWO - Use this code instead.
 
 // require('./client/Nav/Nav'); // PART II - UNCOMMENT THIS LINE
 // require('./client/App/App'); // PART II - UNCOMMENT THIS LINE
